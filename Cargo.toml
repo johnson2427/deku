@@ -4,4 +4,6 @@ members = [
     "crates/cli",
     "crates/node-agent",
     "crates/coordinator",
+    "deku_contract",
+    "flipper", "deku-agent",
 ]
